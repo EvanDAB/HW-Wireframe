@@ -1,0 +1,83 @@
+html {
+    background-color: gray;
+}
+
+p {
+    line-height: 15px;
+}
+
+#invisibleBox {
+    width: 800px;
+    margin: auto;
+
+}
+
+.longBox {
+    width: 800px;
+    height: 75px;
+    background-color: white;
+    margin: auto;
+    margin-bottom: 10px;
+    margin-top: 0px;
+}
+
+.greyType {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: dimgray;
+    padding: 10px 0 0 0;
+    
+}
+
+#whiteType {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: white;
+    padding: 10px 0 0 0;
+}
+
+#container {
+    width: 800px;
+    height: 225px;
+    }
+
+
+#shortBox1 {
+    background-color: white;
+    width: 450px;
+    height: 225px;
+    float: left;
+    
+}
+
+#greyBox {
+    background-color: grey;
+    width: 440px;
+    height: 150px;
+    margin: auto;
+}
+
+#smallContainer {
+    height: 100px;
+    width: 430px;
+    margin: auto;
+    margin-top: 5px;
+
+}
+
+.smallBox {
+    width: 430px;
+    height: 40px;
+    background-color: white;
+    margin:5px auto;
+
+}
+
+#shortBox2 {
+    background-color: white;
+    width: 340px;
+    height: 225px;
+    float: right;
+}
